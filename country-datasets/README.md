@@ -24,4 +24,4 @@ Each dataset includes documentation, schema metadata, and CSV samples.
 
 Dataset structures are derived from professional contact datasets available at:
 
-https://leadsblue.com
+https://leadsblue.com/sales-leads/buy-business-email-list-and-sales-leads/
