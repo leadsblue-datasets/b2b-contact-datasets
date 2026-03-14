@@ -21,4 +21,4 @@ The datasets demonstrate structured contact records commonly used in B2B marketi
 
 Dataset structures are derived from professional contact datasets available at:
 
-https://leadsblue.com
+https://leadsblue.com/sales-leads/buy-consumer-email-list-and-sales-leads/
