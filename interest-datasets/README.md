@@ -1,7 +1,8 @@
+# Interest-Based Contact Datasets
 
-# interest-datasets
+This directory contains datasets focused on niche audience segments including traders, investors, founders, and specialized professionals.
 
-This repository contains synthetic B2B niche contact dataset samples designed for research and analytics experiments.
+These datasets illustrate audience segmentation in marketing research.
 
 ## Repository Contents
 
