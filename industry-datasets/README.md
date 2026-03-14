@@ -1,7 +1,8 @@
+# Industry Contact Datasets
 
-# industry-datasets
+This directory contains datasets organized by industry segments such as healthcare, finance, retail, and technology.
 
-This repository contains synthetic B2B industry contact dataset samples designed for research and analytics experiments.
+The datasets demonstrate structured contact records commonly used in B2B marketing analytics.
 
 ## Repository Contents
 
