@@ -1,3 +1,10 @@
+# B2B Executive Dataset Index
+
+This repository provides sample datasets representing structured executive contact data used for research, analytics, and CRM testing.
+
+Below is a list of available datasets.
+
+
 # Dataset Index
 
 - [Usa Ceo Email List](datasets/usa-ceo-email-list.md)
