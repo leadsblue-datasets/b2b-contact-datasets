@@ -1,7 +1,9 @@
 
-# executive-datasets
+# Executive Contact Datasets
 
-This repository contains synthetic B2B executive contact dataset samples designed for research and analytics experiments.
+This directory contains datasets focused on executive and leadership roles such as CEO, CFO, CTO, and other decision makers.
+
+These datasets are useful for research on executive-level contact data structures used in marketing analytics and business intelligence.
 
 ## Repository Contents
 
