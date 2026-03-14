@@ -22,4 +22,4 @@ These datasets are useful for research on executive-level contact data structure
 
 Dataset structures are derived from professional contact datasets available at:
 
-https://leadsblue.com
+[https://leadsblue.com](https://leadsblue.com/leads/ceo-cfo-and-decision-maker-email-list-database/)
