@@ -1,20 +1,24 @@
 
-# country-datasets
+# Country Business Email Datasets
 
-This repository contains synthetic B2B contact dataset samples designed for research and analytics experiments.
+This directory contains sample B2B contact datasets grouped by country.
+
+These datasets demonstrate how business contact records can be structured for geographic targeting and regional market analysis.
+
+Each dataset includes documentation, schema metadata, and CSV samples.
 
 ## Repository Contents
 
-• dataset documentation  
-• sample CSV datasets  
-• metadata files  
-• schema.org dataset schema  
+â€¢ dataset documentation  
+â€¢ sample CSV datasets  
+â€¢ metadata files  
+â€¢ schema.org dataset schema  
 
 ## Example Use Cases
 
-• data science practice projects  
-• CRM testing environments  
-• analytics experiments  
+â€¢ data science practice projects  
+â€¢ CRM testing environments  
+â€¢ analytics experiments  
 
 ## Source
 
