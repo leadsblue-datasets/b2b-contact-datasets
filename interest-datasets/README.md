@@ -1,20 +1,20 @@
 
 # interest-datasets
 
-This repository contains synthetic B2B contact dataset samples designed for research and analytics experiments.
+This repository contains synthetic B2B niche contact dataset samples designed for research and analytics experiments.
 
 ## Repository Contents
 
-• dataset documentation  
-• sample CSV datasets  
-• metadata files  
-• schema.org dataset schema  
+â€¢ dataset documentation  
+â€¢ sample CSV datasets  
+â€¢ metadata files  
+â€¢ schema.org dataset schema  
 
 ## Example Use Cases
 
-• data science practice projects  
-• CRM testing environments  
-• analytics experiments  
+â€¢ data science practice projects  
+â€¢ CRM testing environments  
+â€¢ analytics experiments  
 
 ## Source
 
