@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Online Shopping Users Email List",
+  "url": "https://leadsblue.com/leads/online-shopping-users-email-leads-database/",
+  "creator": {
+    "@type": "Organization",
+    "name": "LeadsBlue"
+  }
+}

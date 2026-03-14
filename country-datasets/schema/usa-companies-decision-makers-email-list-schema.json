@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Usa Companies Decision Makers Email List",
+  "url": "https://leadsblue.com/leads/usa-companies-decision-makers-email-list-database/",
+  "creator": {
+    "@type": "Organization",
+    "name": "LeadsBlue"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Kazakhstan Consumer List",
+  "url": "https://leadsblue.com/leads/kazakhstan-consumer-email-database/",
+  "creator": {
+    "@type": "Organization",
+    "name": "LeadsBlue"
+  }
+}

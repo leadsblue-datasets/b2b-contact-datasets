@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Argentina Business Email List",
+  "url": "https://leadsblue.com/leads/argentina-business-email-leads-database/",
+  "creator": {
+    "@type": "Organization",
+    "name": "LeadsBlue"
+  }
+}

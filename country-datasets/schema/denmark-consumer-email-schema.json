@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Denmark Consumer Email",
+  "url": "https://leadsblue.com/leads/denmark-consumer-email-database/",
+  "creator": {
+    "@type": "Organization",
+    "name": "LeadsBlue"
+  }
+}

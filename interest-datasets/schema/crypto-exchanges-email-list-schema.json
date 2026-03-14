@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Crypto Exchanges Email List",
+  "url": "https://leadsblue.com/leads/crypto-exchanges-list-top-crypto-exchanges-email-list/",
+  "creator": {
+    "@type": "Organization",
+    "name": "LeadsBlue"
+  }
+}

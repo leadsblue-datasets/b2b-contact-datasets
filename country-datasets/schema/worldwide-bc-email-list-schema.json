@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Worldwide & Bc Email List",
+  "url": "https://leadsblue.com/leads/world-wide-global-b2b-and-b2c-email-list-database/",
+  "creator": {
+    "@type": "Organization",
+    "name": "LeadsBlue"
+  }
+}

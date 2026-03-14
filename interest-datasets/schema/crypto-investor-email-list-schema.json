@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Crypto Investor Email List",
+  "url": "https://leadsblue.com/leads/crypto-investor-email-list-cryptocurrency-investor-leads-database/",
+  "creator": {
+    "@type": "Organization",
+    "name": "LeadsBlue"
+  }
+}

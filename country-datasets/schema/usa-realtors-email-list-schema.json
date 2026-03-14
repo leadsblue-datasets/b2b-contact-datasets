@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Usa Realtors Email List",
+  "url": "https://leadsblue.com/leads/usa-realtors-email-list-usa-real-estate-agent-email-list-database/",
+  "creator": {
+    "@type": "Organization",
+    "name": "LeadsBlue"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Crowdfunding Investors Email List",
+  "url": "https://leadsblue.com/leads/crowdfunding-investors-list-crowdfunding-campaign-promotion/",
+  "creator": {
+    "@type": "Organization",
+    "name": "LeadsBlue"
+  }
+}

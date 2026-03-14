@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Hotmail Email Addresses: Hotmail User Email List",
+  "url": "https://leadsblue.com/leads/hotmail-user-email-list-database/",
+  "creator": {
+    "@type": "Organization",
+    "name": "LeadsBlue"
+  }
+}

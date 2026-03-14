@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Turkey Consumer Email",
+  "url": "https://leadsblue.com/leads/turkey-consumer-email-list-and-sales-leads-database/",
+  "creator": {
+    "@type": "Organization",
+    "name": "LeadsBlue"
+  }
+}

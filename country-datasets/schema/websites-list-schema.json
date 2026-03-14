@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Websites List",
+  "url": "https://leadsblue.com/leads/websites-databases-global-b2b-databases-by-category-wise/",
+  "creator": {
+    "@type": "Organization",
+    "name": "LeadsBlue"
+  }
+}

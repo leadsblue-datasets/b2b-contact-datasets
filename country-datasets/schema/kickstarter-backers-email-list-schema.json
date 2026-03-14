@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Kickstarter Backers Email List",
+  "url": "https://leadsblue.com/leads/buy-kickstarter-email-list-indiegogo-kickstarter-superbacker-list/",
+  "creator": {
+    "@type": "Organization",
+    "name": "LeadsBlue"
+  }
+}

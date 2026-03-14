@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Saudi Arabia Email & Phone List",
+  "url": "https://leadsblue.com/leads/saudi-arabia-emails-and-mobile-phone-nos/",
+  "creator": {
+    "@type": "Organization",
+    "name": "LeadsBlue"
+  }
+}

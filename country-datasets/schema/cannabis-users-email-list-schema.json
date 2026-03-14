@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Cannabis Users Email List",
+  "url": "https://leadsblue.com/leads/cannabis-users-email-leads-database-weed-smokers-marijuana-enthusiasts-email-list/",
+  "creator": {
+    "@type": "Organization",
+    "name": "LeadsBlue"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Whois : Complete Whois Email Download",
+  "url": "https://leadsblue.com/leads/whois-database-complete-whois-email-database-download/",
+  "creator": {
+    "@type": "Organization",
+    "name": "LeadsBlue"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Cs:Go Esports Users Email List",
+  "url": "https://leadsblue.com/leads/cs-go-esports-users-and-players-email-list-database/",
+  "creator": {
+    "@type": "Organization",
+    "name": "LeadsBlue"
+  }
+}
