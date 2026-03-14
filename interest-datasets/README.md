@@ -21,4 +21,4 @@ These datasets illustrate audience segmentation in marketing research.
 
 Dataset structures are derived from professional contact datasets available at:
 
-https://leadsblue.com
+https://leadsblue.com/sales-leads/buy-targeted-email-list-and-sales-leads/
