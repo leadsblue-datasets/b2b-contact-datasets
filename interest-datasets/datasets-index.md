@@ -1,3 +1,9 @@
+# B2B Intrest Dataset Index
+
+This repository provides sample datasets representing structured Intrest contact data used for research, analytics, and CRM testing.
+
+Below is a list of available datasets.
+
 # Dataset Index
 
 - [Cryptocurrency Email List - Crypto & Bitcoin Users Email List](datasets/cryptocurrency-email-list---crypto-bitcoin-users-email-list.md)
