@@ -1,27 +1,56 @@
 # B2B Contact Dataset Collection
 
-This repository contains **sample B2B contact datasets** used for research, analytics, and data science experimentation.
+This repository provides a collection of **sample B2B contact datasets** and structured business email datasets used for research, analytics, and data science experimentation.
 
-The datasets demonstrate structured business contact data commonly used in:
+The datasets demonstrate how structured business contact records can be organized for marketing analysis, CRM testing environments, and machine learning experiments.
 
-* market research
-* lead generation analysis
-* CRM testing environments
-* marketing analytics
-* data science training projects
+## Dataset Categories
 
-Each dataset includes:
+The repository includes several dataset categories:
 
-* dataset documentation
-* sample CSV files
-* schema metadata
-* research questions
+### Country-Level Business Datasets
 
-These datasets represent **structured business contact records and professional datasets used in business intelligence workflows.**
+Business contact datasets grouped by country.
+
+Examples:
+
+* Austria Business Email Dataset
+* Germany Business Email Dataset
+* Canada Business Contact Dataset
+
+### Executive Contact Datasets
+
+Datasets focused on decision-makers and executives.
+
+Examples:
+
+* CEO Email Dataset
+* CFO Contact Dataset
+* Marketing Director Email Dataset
+
+### Industry Contact Datasets
+
+Datasets organized by industry segments.
+
+Examples:
+
+* Healthcare Executives Dataset
+* Real Estate Agents Dataset
+* Insurance Professionals Dataset
+
+### Interest-Based Datasets
+
+Datasets targeting niche audiences.
+
+Examples:
+
+* Forex Traders Dataset
+* Crypto Investors Dataset
+* Startup Founders Dataset
 
 ## Dataset Structure
 
-Each dataset typically contains the following fields:
+Sample datasets typically contain the following fields:
 
 ```
 First Name
@@ -33,17 +62,17 @@ Email
 Country
 ```
 
-All email addresses in sample datasets use **example.com** domains and are provided purely for demonstration purposes.
+All email addresses in the sample datasets use the **example.com domain** and are included for demonstration and research purposes only.
 
 ## Use Cases
 
-These sample datasets can be used for:
+These datasets can be used for:
 
-* data science tutorials
+* data science practice projects
+* marketing analytics research
 * CRM testing environments
 * machine learning experiments
-* marketing analytics research
-* B2B dataset structure examples
+* contact dataset structure examples
 
 ## Source
 
@@ -53,4 +82,4 @@ https://leadsblue.com
 
 ## License
 
-Sample datasets are provided for **research and educational use only**.
+Sample datasets are provided for research and educational use.
