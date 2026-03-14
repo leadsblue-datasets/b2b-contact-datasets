@@ -1,17 +1,56 @@
-# B2B Contact Dataset Samples
+# B2B Contact Dataset Collection
 
-This repository contains synthetic sample datasets representing structured
-B2B contact records used in marketing analytics, CRM testing environments,
-and research demonstrations.
+This repository contains **sample B2B contact datasets** used for research, analytics, and data science experimentation.
 
-Datasets are organized by category:
+The datasets demonstrate structured business contact data commonly used in:
 
-- country email datasets
-- industry email datasets
-- executive email datasets
-- interest based datasets
+* market research
+* lead generation analysis
+* CRM testing environments
+* marketing analytics
+* data science training projects
 
-All records are synthetic examples generated for research purposes.
+Each dataset includes:
 
-Source:
+* dataset documentation
+* sample CSV files
+* schema metadata
+* research questions
+
+These datasets represent **structured business contact records and professional datasets used in business intelligence workflows.**
+
+## Dataset Structure
+
+Each dataset typically contains the following fields:
+
+```
+First Name
+Last Name
+Company
+Job Title
+Industry
+Email
+Country
+```
+
+All email addresses in sample datasets use **example.com** domains and are provided purely for demonstration purposes.
+
+## Use Cases
+
+These sample datasets can be used for:
+
+* data science tutorials
+* CRM testing environments
+* machine learning experiments
+* marketing analytics research
+* B2B dataset structure examples
+
+## Source
+
+Full structured B2B contact datasets are available from:
+
 https://leadsblue.com
+
+## License
+
+Sample datasets are provided for **research and educational use only**.
