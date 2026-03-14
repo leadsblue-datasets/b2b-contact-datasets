@@ -1,3 +1,9 @@
+# B2B Contact Dataset Index
+
+This repository provides sample datasets representing structured B2B contact data used for research, analytics, and CRM testing.
+
+Below is a list of available datasets.
+
 # Dataset Index
 
 - [Argentina Business Email List](datasets/argentina-business-email-list.md)
