@@ -79,7 +79,7 @@ All email addresses use the **example.com** placeholder domain in accordance wit
 
 ## Complete Dataset Source
 
-See the official dataset page:
+See the official dataset page: https://leadsblue.com/leads/belarus-business-email-leads-database/
 
 
 
