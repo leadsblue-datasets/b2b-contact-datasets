@@ -132,7 +132,7 @@ Datasets similar to the **Texas Business Email dataset** are commonly used for:
 
 ## Complete Dataset Source
 
-See the official dataset page:
+See the official dataset page: https://leadsblue.com/leads/usa-state-texas-business-email-leads-database/
 
 
 
