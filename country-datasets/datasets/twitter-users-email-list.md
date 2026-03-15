@@ -79,7 +79,7 @@ All email addresses use the **example.com** placeholder domain in accordance wit
 
 ## Complete Dataset Source
 
-Open the complete dataset:
+Open the complete dataset: https://leadsblue.com/leads/twitter-users-email-list-database/
 
 
 
